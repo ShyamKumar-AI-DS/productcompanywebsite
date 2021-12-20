@@ -4,7 +4,7 @@
 }
 body {
   background-color: whitesmoke;
-  color: #17421d;
+  color: #000000;
 }
 .container {
   width: 1080px;
@@ -21,11 +21,11 @@ body {
   height: 250px;
   text-align: center;
   font-size: 60px;
-  background-image: url("/static/img/banner1.jpg");
+  background-image: url("/static/img/bg.jpg");
   background-size: 100% 100%;
   margin: 0px 0px 0px 0px;
   padding-top: 150px;
-  color: #16d1ae;
+  color: #00e5ff;
 }
 
 .menu {
@@ -33,7 +33,7 @@ body {
   width: 100%;
   height: 50px;
   font-size: larger;
-  background-color: #5bb045;
+  background-color: #d6ff93;
   text-align: center;
   padding-top: 15px;
   margin: 0px 0px 0px 0px;
@@ -54,17 +54,17 @@ body {
 
 .menuitem a {
   text-decoration: none;
-  color: #9c1018;
+  color: #ff008c;
 }
 
 .content {
   display: block;
   width: 100%;
-  background-color: #cffffd;
+  background-color: #42f8f2;
   min-height: 500px;
   margin: 0px 0px 0px 0px;
   border-width: 1px;
-  border-color: white;
+  border-color: rgb(255, 79, 79);
   border-style: solid;
 }
 .homecontent {
@@ -72,7 +72,7 @@ body {
   margin: 10px 10px 10px 10px;
 }
 .homecontent h1 {
-  text-align: left;
+  text-align: center;
 }
 .homecontent img {
   float: right;
@@ -91,16 +91,17 @@ body {
 }
 
 .productcontent h1 {
-  text-align: left;
+  text-align: center;
 }
 
 .productitems {
   display: block;
+  text-align: center;
 }
 
 .productitem {
   display: inline-block;
-  width: 30%;
+  width: 20%;
   height: 250px;
   text-align: center;
 }
@@ -129,9 +130,12 @@ body {
   display: block;
   width: 100%;
   height: 40px;
-  background-color: #5bb045;
+  background-color:#d6ff93;
   text-align: center;
   padding-top: 10px;
   margin: 0px 0px 0px 0px;
-  color: #9c1018;
+  color: #004f55;
+}
+.content h4{
+  text-align: center;
 }

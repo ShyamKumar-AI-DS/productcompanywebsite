@@ -496,19 +496,8 @@ body {
 
 HOME:
 
-![output][Screenshot (46)](https://user-images.githubusercontent.com/93427182/146971360-c7144572-87da-4788-ad42-cfcd9b2a4628.png)
+![Screenshot (46)](https://user-images.githubusercontent.com/93427182/146971628-9e6abb4b-89f3-4c68-ab08-f07cb203021f.png)
 
-PRODUCTS:
-
-![output][Screenshot (47)](https://user-images.githubusercontent.com/93427182/146971427-0426b2e4-9e6d-429c-a96a-543a9ef9e27f.png)
-
-PEOPLE:
-
-![output][Screenshot (48)](https://user-images.githubusercontent.com/93427182/146971463-c0ed67c5-e8a5-4031-8bf4-19623bcfb984.png)
-
-CONTACT:
-
-![output][Screenshot (49)](https://user-images.githubusercontent.com/93427182/146971179-66e11669-fa74-4139-99ff-33dce1543d22.png)
 
 
 ## Result:

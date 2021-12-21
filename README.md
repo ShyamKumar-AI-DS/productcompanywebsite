@@ -494,7 +494,7 @@ body {
 
 ### Home Page:
 
-![output](./images/a.png)
+![output](./images/outa.png)
 
 ## Result:
 

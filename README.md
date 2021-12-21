@@ -498,6 +498,17 @@ HOME:
 
 ![Screenshot (46)](https://user-images.githubusercontent.com/93427182/146971628-9e6abb4b-89f3-4c68-ab08-f07cb203021f.png)
 
+PRODUCTS:
+
+![Screenshot (47)](https://user-images.githubusercontent.com/93427182/146971731-0c796573-142f-4d88-8b03-9d7ac8a9bdc4.png)
+
+PEOPLE:
+
+![Screenshot (48)](https://user-images.githubusercontent.com/93427182/146971764-52c7b592-a49b-4d6b-97a2-6fc8b6472d67.png)
+
+CONTACT:
+
+![Screenshot (49)](https://user-images.githubusercontent.com/93427182/146971793-1df6009c-44c2-441b-b5ac-591c32548054.png)
 
 
 ## Result:

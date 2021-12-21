@@ -494,7 +494,8 @@ body {
 
 ### Home Page:
 
-![output](./images/outa.png)
+![output](./images/out![Screenshot (49)](https://user-images.githubusercontent.com/93427182/146971179-66e11669-fa74-4139-99ff-33dce1543d22.png)
+a.png)
 
 ## Result:
 
